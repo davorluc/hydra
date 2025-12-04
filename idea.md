@@ -1,7 +1,3 @@
-Absolutely! I can clean up your Markdown, format tables, code blocks, and flowcharts properly, and make headings consistent for readability. Here's a polished version:
-
----
-
 # Aave Liquidation Bot – Extended Concept Overview
 
 ## 1. Concept
